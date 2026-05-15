@@ -22,3 +22,7 @@ Add Spring Boot initial project structure
 * `commit` = 기록 작성
 * `push` = 업로드
 
+git status
+git add .
+git commit -m "설명"
+git push
